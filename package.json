@@ -1,0 +1,19 @@
+{
+  "name": "@janapc/csvtojson",
+  "version": "1.0.0",
+  "description": "convert csv to json using stream",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "DEBUG=app* node index.js"
+  },
+  "keywords": [],
+  "author": "janapc",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4"
+  },
+  "engines": {
+    "node": ">=19.9.0"
+  }
+}
